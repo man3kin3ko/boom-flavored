@@ -1,3 +1,14 @@
+config?public=true
+users?public=true
+user/group?public=true
+?next=https://google.com
+.well-known/apple-app-site-association
+.well-known/openpgpkey 
+.well-known/assetlinks.json
+.well-known/openid-configuration
+.well-known/oauth-authorization-server
+,well-known/change-password
+.snapshot
 !.gitignore
 !.htaccess
 !.htpasswd
