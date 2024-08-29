@@ -1,14 +1,19 @@
+/WEB-INF/service.wsdl
+/WEB-INF/schemas/service.wsdl
+/WEB-INF/wsdl/service.wsdl
+/wsdl/service.wsdl
+?wsdl
+/kubernetes/v1/clusters
+/app/config/package.yaml
+/v1alpha1/ResourceClaim
+/apis/rbac.authorization.k8s.io/v1alpha1
 %0d%0aSet-Cookie:test=test;domain=.test;
 %0dSet-Cookie:test=test;domain=.test;
 %3f%0d%0aLocation:%20http://example.com
 v2/_catalog
 manifest.plist
-config?public=true
-users?public=true
-user/group?public=true
 nodemon.json
 assets/env.js
-sitemap.xml?offset=1;SELECT IF((8303>8302),SLEEP(9),2356)#
 _next/image?url=/\/\google.com/&w=128&h=128&q=100
 _ipx/w_200/https:%2f%2fexample.com%5c@attacker.com%2fattack.svg
 .well-known/apple-app-site-association
