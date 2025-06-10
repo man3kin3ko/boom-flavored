@@ -1,3 +1,9 @@
+/openapi/
+/openapi/api-dto.yaml
+/openapi/api-description.yaml
+/api/schema/redoc
+/api/schema
+/api/redoc
 /WEB-INF/service.wsdl
 /WEB-INF/schemas/service.wsdl
 /WEB-INF/wsdl/service.wsdl
